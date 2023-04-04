@@ -1,4 +1,4 @@
-# coocree_oop_flutter
+# coocree_oop_flutter_learn
 
 A aplicação em Flutter foi desenvolvida com o intuito de ajudar iniciantes a se familiarizarem com o
 conceito de Orientação a Objetos (OOP). Nesta aplicação, foram abordados os principais temas 
