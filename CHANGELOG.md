@@ -1,7 +1,7 @@
-CHANGELOG.md
-Iniciar com o número da versão 0.0.1
-Descrição da alteração realizada
-Para cada atualização deve seguir a sequência crescente no último dígito
+* CHANGELOG.md
+* Iniciar com o número da versão 0.0.1
+* Descrição da alteração realizada
+* Para cada atualização deve seguir a sequência crescente no último dígito
 
 
 ## 0.0.1 Segunda-feira 03/04/2023
