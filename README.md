@@ -1,4 +1,4 @@
-# CoocreeOOPFlutter
+# CoocreeOopFlutter
 
 O CoocreeOOPFlutter desenvolvido com o intuito de ajudar iniciantes a se familiarizarem com o
 conceito de Orientação a Objetos (OOP). Nesta aplicação, foram abordados os principais temas 
