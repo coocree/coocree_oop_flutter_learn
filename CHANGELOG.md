@@ -7,3 +7,4 @@
 
 * Estudo dos conceitos de Emcapsulamento.
 * Desenvolvimento de aplicações básicas para demonstrar o funcionamento dos conceitos.
+* Explicação do funcionamento sobre o exemplo de Emcapsulamento.
