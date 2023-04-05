@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'class_heranca.dart';
+import 'class/class_heranca.dart';
 
 void main() {
   runApp(const MyApp());
