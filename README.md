@@ -35,3 +35,13 @@ Explicações completas sobre os exemplos dentro das pastas.
 
 Bons Estudos e PRATIQUE.
 
+
+README no GitHub
+(Nome do Componente) CamelCase
+Print da tela do aplicativo (se houver)
+Explicação simplificada do componente.
+Exemplo completo com comentário do exemplo no final da pagina
+“Como utilizar” ou “Como instalar”
+Feature ou  Recursos
+
+
