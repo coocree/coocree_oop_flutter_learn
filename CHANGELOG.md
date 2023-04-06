@@ -14,3 +14,10 @@
 * Estudo dos conceitos de Emcapsulamento.
 * Desenvolvimento de aplicações básicas para demonstrar o funcionamento dos conceitos.
 * Explicação do funcionamento sobre o exemplo de Emcapsulamento.
+
+## 0.0.3 Quarta-feira 05/04/2023
+
+* Estudo dos conceitos de abstração.
+* Desenvolvimento de aplicações básicas para demonstrar o funcionamento dos conceitos.
+* Explicação do funcionamento sobre o exemplo de abstração.
+

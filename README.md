@@ -30,6 +30,7 @@ Conceitos abordados
 * Heranca
 * Polimorfismo
 * Emcapsulamento
+* Abstração
 
 Explicações completas sobre os exemplos dentro das pastas.
 
